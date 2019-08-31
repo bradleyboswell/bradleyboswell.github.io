@@ -1,9 +1,26 @@
+body{
+    background: #242424;
+}
+
+#logo{
+    margin-top:0pt;
+    margin-left:15pt;
+    margin-right:15pt;
+    height:51pt;
+    width:51pt;
+    float:left;
+}
+
 .banner{
-    font-family: reross-quadratic, sans-serif;
+    padding-top:5pt;
+    color:#fcfcfc;
+    font-size:32pt;
+    font-family:reross-quadratic, sans-serif;
+    font-weight:400;
+    font-style:normal;
+}
 
-    font-weight: 400;
-
-    font-style: normal;
-
-
+#name{
+    margin-left:15pt;
+    letter-spacing:0.2em;
 }
